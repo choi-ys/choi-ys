@@ -10,21 +10,21 @@
 <!-- stars card -->
 <div align=center>
   
-  [![choi-young-seok's github stats](https://github-readme-stats.vercel.app/api?username=choi-young-seok&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![choi-young-seok's github stats](https://github-readme-stats.vercel.app/api?username=choi-young-seok&count_private=true&show_icons=true&theme=dracula)](https://github.com/choi-young-seok?tab=repositories)
 
 </div>
 
 <!-- language card -->
 <div align=center>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-young-seok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-young-seok&layout=compact)](https://github.com/choi-young-seok?tab=repositories)
 
 <div>
 
 <!-- wakatime week stats -->
 <div align=center>
   
-  [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi-young-seok)](https://github.com/anuraghazra/github-readme-stats)
+  [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi-young-seok)](https://github.com/choi-young-seok?tab=repositories)
   
 </div>
 
