@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- hits count -->
 <div align=center>
   
@@ -14,7 +12,18 @@
 
 </div>
 
+### Choi Yong Seok
+ - Java Backend Developer
 
+### Skils
+ - Language : JAVA, JavaScript
+ - Framework : Spring Framework, JPA, MyBatis, Vue.js
+ - Database : Oracle, MySQL, Mongo
+ - Server : Kafka, Redis, Elastic Search
+ - Tools : IntelliJ, Eclipse, VsCode, QueryPie, xShell
+ 
+### Interest
+ - Docker, CI/CD, TDD, jUnit5, REST API, Crawling, Parallel Process
 
 <!--
 **choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
