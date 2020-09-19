@@ -14,33 +14,28 @@
 
 </div>
 
-<!--
 
-<!-- language card -->
+
+<!--
+**choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <div align=center>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-young-seok&layout=compact)](https://github.com/choi-young-seok?tab=repositories)
 
 <div>
 
-<!-- wakatime week stats -->
 <div align=center>
   
   [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi-young-seok)](https://github.com/choi-young-seok?tab=repositories)
   
 </div>
 
-<!-- readMe card -->
 <div align=center>
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-young-seok&repo=event)](https://github.com/choi-young-seok/event)
 
 </div>
-
--->
-
-<!--
-**choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
