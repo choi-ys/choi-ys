@@ -15,7 +15,7 @@
 ### Choi Yong Seok
  - Java Backend Developer
 
-### Skils
+### Skills
  - Language : JAVA, JavaScript
  - Framework : Spring Framework, JPA, MyBatis, Vue.js
  - Database : Oracle, MySQL, Mongo
@@ -46,9 +46,11 @@
 
 </div>
 
+- 🔭 I’m currently working on ...
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
