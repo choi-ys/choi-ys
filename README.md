@@ -12,7 +12,7 @@
 
 </div>
 
-[![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi-young-seok)](https://github.com/choi-young-seok?tab=repositories)
+[![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi_ys)](https://github.com/choi-young-seok?tab=repositories)
 
 ### Choi Yong Seok
  - Java Backend Developer
