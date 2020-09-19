@@ -10,7 +10,7 @@
 <!-- stars card -->
 <div align=center>
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choi-young-seok&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![choi-young-seok's github stats](https://github-readme-stats.vercel.app/api?username=choi-young-seok&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -24,7 +24,7 @@
 <!-- wakatime week stats -->
 <div align=center>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi-young-seok)](https://github.com/anuraghazra/github-readme-stats)
+  [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi-young-seok)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
