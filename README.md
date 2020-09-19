@@ -24,14 +24,14 @@
 <!-- wakatime week stats -->
 <div align=center>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi-young-seok)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 <!-- readMe card -->
 <div align=center>
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-young-seok&repo=event)](https://github.com/choi-young-seok/event)
 
 </div>
 
