@@ -14,6 +14,8 @@
 
 </div>
 
+<!--
+
 <!-- language card -->
 <div align=center>
   
@@ -34,6 +36,8 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-young-seok&repo=event)](https://github.com/choi-young-seok/event)
 
 </div>
+
+-->
 
 <!--
 **choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
