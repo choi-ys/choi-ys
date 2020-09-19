@@ -25,6 +25,8 @@
 ### Interest
  - Docker, CI/CD, TDD, jUnit5, REST API, Crawling, Parallel Process, Spring WebFlux
 
+- 🔭 I’m currently working on ...
+
 <!--
 **choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,7 +48,6 @@
 
 </div>
 
-- 🔭 I’m currently working on ...
 
 Here are some ideas to get you started:
 
