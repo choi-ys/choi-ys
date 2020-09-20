@@ -17,7 +17,7 @@
 <!-- wakatime stats : https://wakatime.com/ -->
 <div align=center>
   
-  [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi_ys)](https://github.com/choi-young-seok?tab=repositories)
+  [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi_ys)](https://wakatime.com/dashboard)
   
 </div>
 
