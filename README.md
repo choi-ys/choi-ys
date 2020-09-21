@@ -14,12 +14,7 @@
   
 </div>
 
-<!-- wakatime stats : https://wakatime.com/ -->
-<div align=center>
-  
-  [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi_ys)](https://wakatime.com/dashboard)
-  
-</div>
+
 
 ### Choi Yong Seok
  - Java Backend Developer
@@ -53,6 +48,13 @@
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-young-seok&repo=event)](https://github.com/choi-young-seok/event)
 
+</div>
+
+<!-- wakatime stats : https://wakatime.com/ -->
+<div align=center>
+  
+  [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi_ys)](https://wakatime.com/dashboard)
+  
 </div>
 
 
