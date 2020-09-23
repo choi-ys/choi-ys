@@ -27,7 +27,7 @@
  - Server : Kafka, Redis, Elastic Search
  - Tools : IntelliJ, Eclipse, VsCode, QueryPie, xShell
  
-### Interest
+### Interested IN
  - Docker, CI/CD, TDD, jUnit5, REST API, Crawling, Parallel Process, Spring WebFlux
 
 <!--
