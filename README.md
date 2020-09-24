@@ -2,7 +2,7 @@
 
 
 <!-- hits count : https://hits.seeyoufarm.com/ -->
-<div align=center>
+<div>
   <div align=center>
 
   ### Choi Yong Seok
