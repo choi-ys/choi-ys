@@ -2,16 +2,24 @@
 
 
 <!-- hits count : https://hits.seeyoufarm.com/ -->
-<div>
+<div allign>
   <p align=center>
-### Choi Yong Seok
- - Java Backend Developer
+
+  ### Choi Yong Seok
+  - Java Backend Developer
+
   </p>
   <p allign=right>
     
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoi-ys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoi-ys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
   </p>
+</div>
+  
+<div allign=right>
+    
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoi-ys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
 </div>
 
 
