@@ -3,17 +3,17 @@
 
 <!-- hits count : https://hits.seeyoufarm.com/ -->
 <div>
-  <p align=left>
+  <span align=left>
 
   ### Choi Yong Seok
   Java Backend Developer
 
-  </p>
-  <p align=right>
+  </span>
+  <span align=right>
     
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoi-ys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
-  </p>
+  </span>
 </div>
   
 <div align=center>
