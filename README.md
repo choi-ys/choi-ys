@@ -15,6 +15,11 @@
   
 </div>
 
+<div align=center>
+  
+  [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi_ys)](https://wakatime.com/dashboard)
+  
+</div>
 
 
 ### Choi Yong Seok
@@ -54,11 +59,7 @@
 </div>
 
 
-<div align=center>
-  
-  [![choi-young-seok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi_ys)](https://wakatime.com/dashboard)
-  
-</div>
+
 
 
 Here are some ideas to get you started:
