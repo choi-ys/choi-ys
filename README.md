@@ -5,8 +5,7 @@
 <div>
   <span align=left>
 
-  ### Choi Yong Seok
-  Java Backend Developer
+
 
   </span>
   <span align=right>
@@ -36,8 +35,8 @@
   
 </div>
 
-
-
+### Choi Yong Seok
+ - Java Backend Developer
 
 ### Skills
  - Language : JAVA, JavaScript
