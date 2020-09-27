@@ -16,7 +16,12 @@
   
 </div>
 
+<div align=center>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-ys&layout=compact)](https://github.com/choi-ys?tab=repositories)
 
+<div>
+    
 ### Choi Yong Seok
  - Java Backend Developer
 
@@ -33,11 +38,7 @@
 <!--
 **choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div align=center>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-young-seok&layout=compact)](https://github.com/choi-young-seok?tab=repositories)
 
-<div>
 
 
 <div align=center>
