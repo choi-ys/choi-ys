@@ -23,7 +23,7 @@
 
 </div>
     
-    
+
 ### Choi Yong Seok
  - Java Backend Developer
 
