@@ -35,7 +35,7 @@
  - Tools : IntelliJ, Eclipse, VsCode, QueryPie, xShell
  
 ### Interested IN
- - Docker, CI/CD, TDD, jUnit5, REST API, Crawling, Parallel Process, Spring WebFlux, Spring Security
+ - Docker, CI/CD, TDD, jUnit5, REST API, Crawling, Parallel Process, Spring WebFlux, Spring Security, Akka, JPA
 
 <!--
 **choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
