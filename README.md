@@ -9,13 +9,6 @@
 </div>
 
 
-<!-- stars card : https://github.com/anuraghazra/github-readme-stats -->
-<div align=center>
-  
-  [![choi-young-seok's github stats](https://github-readme-stats.vercel.app/api?username=choi-ys&count_private=true&show_icons=true&theme=dracula)](https://github.com/choi-ys?tab=repositories)
-  
-</div>
-
 <!-- Committed Top Lang -->
 <div align=center>
   
