@@ -20,10 +20,6 @@
 </div>
 
 
-
-### Choi Yong Seok
- - Java Backend Developer
-
 ### Skills
  - Language : JAVA, JavaScript
  - Framework : Spring Framework, JPA, MyBatis, Vue.js
