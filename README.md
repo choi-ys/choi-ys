@@ -1,5 +1,5 @@
 <!-- github theme -->
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=45)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Choi%20Yong&%20SeokfontSize=45)
 
 <!-- Github Profile Readme로 프로필 꾸미기 : https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
 
