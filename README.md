@@ -2,12 +2,17 @@
 
 
 <!-- hits count : https://hits.seeyoufarm.com/ -->
+
+<!-- Git Hub stats Start -->
+<!-->
 <div align=center>
     
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoi-ys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-    
-</div>
+<!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoi-ys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
+<!--
+</div>
+-->
+<!-- Git Hub stats End -->
 
 <!-- stars card : https://github.com/anuraghazra/github-readme-stats -->
 <div align=center>
@@ -35,16 +40,16 @@
  - Tools : IntelliJ, Eclipse, VsCode, QueryPie, xShell
  
 ### Interested IN
- - Spring REST Docs, Spring HATEOAS, Spring Security, JPA, Spring WebFlux, Armeria
- - Phthon, Flask
+ - Java, Kotlin, Python
+ - Spring REST Docs, Spring HATEOAS, Spring Security, JPA, Spring Cloud, Spring Boot Actuator, Spring WebFlux, Armeria
  - Ahache Kafka, Ahache Aairflow, Ahache Spark, Ahache Hadoop
  - Mongo, Elastic Search, Redis, Kafka, EhCache
  - Docker, CI/CD, Travis CI, Jenkins, Kubernetes, Azure
  - Pinpoint
  - TDD, BDD, DDD, jUnit5
- - REST API, Crawling, Parallel Process, Data analysis
  - Akka
  - Vue.js
+ - REST API, Crawling, Parallel Process, Data analysis, OAuth
 
 <!--
 **choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
