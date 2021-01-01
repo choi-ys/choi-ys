@@ -1,3 +1,6 @@
+<!-- github theme -->
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=45)
+
 <!-- Github Profile Readme로 프로필 꾸미기 : https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
 
 
@@ -15,7 +18,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-ys&layout=compact)](https://github.com/choi-ys?tab=repositories)
 
 </div>
-    
+
+
 
 ### Choi Yong Seok
  - Java Backend Developer
@@ -38,6 +42,8 @@
  - Akka
  - Vue.js
  - REST API, Crawling, Parallel Process, Data analysis, OAuth
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice)
 
 <!--
 **choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
