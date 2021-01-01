@@ -35,7 +35,16 @@
  - Tools : IntelliJ, Eclipse, VsCode, QueryPie, xShell
  
 ### Interested IN
- - Docker, CI/CD, TDD, jUnit5, REST API, Crawling, Parallel Process, Spring WebFlux, Spring Security, Akka, JPA
+ - Spring REST Docs, Spring HATEOAS, Spring Security, JPA, Spring WebFlux, Armeria
+ - Phthon, Flask
+ - Ahache Kafka, Ahache Aairflow, Ahache Spark, Ahache Hadoop
+ - Mongo, Elastic Search, Redis, Kafka, EhCache
+ - Docker, CI/CD, Travis CI, Jenkins, Kubernetes, Azure
+ - Pinpoint
+ - TDD, BDD, DDD, jUnit5
+ - REST API, Crawling, Parallel Process, Data analysis
+ - Akka
+ - Vue.js
 
 <!--
 **choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
