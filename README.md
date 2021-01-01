@@ -1,5 +1,5 @@
 <!-- github theme -->
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Choi%20Yong%20Seok&fontSize=45)
+  ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=150&section=header&text=Choi%20Yong%20Seok&fontSize=45)
 
 <!-- Github Profile Readme로 프로필 꾸미기 : https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
 
@@ -39,7 +39,7 @@
  - Vue.js
  - REST API, Crawling, Parallel Process, Data analysis, OAuth
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Rounded)
 
 <!--
 **choi-young-seok/choi-young-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
