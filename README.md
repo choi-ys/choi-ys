@@ -25,7 +25,6 @@
  - Framework : Spring Framework, JPA, MyBatis, Vue.js
  - Database : Oracle, MySQL, Mongo
  - Server : Kafka, Redis, Elastic Search
- - Tools : IntelliJ, Eclipse, VsCode, QueryPie, xShell
  
 ### Interested IN
  - Java, Kotlin, Python
