@@ -29,7 +29,7 @@
 ### Interested IN
  - Java, Kotlin, Python
  - Spring REST Docs, Spring HATEOAS, Spring Security, JPA, Spring Cloud, Spring Boot Actuator, Spring WebFlux, Armeria
- - Ahache Kafka, Ahache Aairflow, Ahache Spark, Ahache Hadoop
+ - Ahache Kafka, Ahache Aairflow, Ahache Spark, Ahache Hadoop, Apache Thrift
  - Mongo, Elastic Search, Redis, Kafka, EhCache
  - Docker, CI/CD, Travis CI, Jenkins, Kubernetes, Azure
  - Pinpoint
