@@ -28,15 +28,15 @@
  
 ### Interested IN
  - Java, Kotlin, Python
- - Spring REST Docs, Spring HATEOAS, Spring Security, JPA, Spring Cloud, Spring Boot Actuator, Spring WebFlux, Armeria
- - Ahache Kafka, Ahache Airflow, Ahache Spark, Ahache Hadoop, Apache Thrift
+ - Spring REST Docs, Spring HATEOAS, Spring Security, JPA, Spring Cloud, Spring WebFlux, Armeria
+ - Airflow, Spark, Hadoop, Thrift
  - Mongo, Elastic Search, Redis, Kafka, EhCache
- - Docker, CI/CD, Travis CI, Jenkins, Kubernetes, Azure
- - Pinpoint
+ - CI/CD, Docker, Travis CI, Jenkins, Kubernetes, Azure
+ - Pinpoint, Spring Boot Actuator
  - TDD, BDD, DDD, jUnit5
  - Akka
  - Vue.js
- - REST API, Crawling, Parallel Process, Data analysis, OAuth
+ - REST API, Crawling, Parallel Process, Data analysis, OAuth, Reactive Programming, Data visualization
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
 
