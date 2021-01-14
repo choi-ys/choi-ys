@@ -34,7 +34,7 @@
  - CI/CD, Docker, Travis CI, Jenkins, Kubernetes, Azure
  - Pinpoint, Spring Boot Actuator
  - TDD, BDD, DDD, jUnit5
- - Akka
+ - Akka Stream, Project Reactor
  - Vue.js
  - REST API, Crawling, Parallel Process, Data analysis, OAuth, Reactive Programming, Data visualization
 
