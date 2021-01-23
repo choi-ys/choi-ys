@@ -25,6 +25,7 @@
  - Framework : Spring Framework, JPA, MyBatis, Vue.js
  - Database : Oracle, MySQL, Mongo, PostgreSQL
  - Server : Kafka, Redis, Elastic Search
+ - DevOps : AWS EC2, ECR, RDS, Docker, Lamda, K8s
  
 ### Interested IN
  - Java, Kotlin, Python
