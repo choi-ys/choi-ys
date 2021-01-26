@@ -40,5 +40,6 @@
  - Vue.js
  - REST API, Crawling, Parallel Process, Data analysis, OAuth, Reactive Programming, Data visualization
 
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
 
