@@ -25,7 +25,7 @@
  - Framework : Spring Framework, JPA, MyBatis, Vue.js
  - Database : Oracle, MySQL, Mongo, PostgreSQL
  - Server : Kafka, Redis, Elastic Search
- - DevOps : AWS EC2, ECR, RDS, Docker, Lamda, K8s
+ - DevOps : AWS EC2, ECR, RDS, Docker
  
 ### Interested IN
  - Java, Kotlin, Python
@@ -33,7 +33,8 @@
  - JPA, Choas Monkey
  - Airflow, Spark, Hadoop, Thrift
  - Mongo, Elastic Search, Redis, Kafka, EhCache
- - CI/CD, Docker, Travis CI, Jenkins, Kubernetes, Azure
+ - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
+ - AWS EC2, ECR, RDS, Lamda
  - Pinpoint, Spring Boot Actuator
  - TDD, BDD, DDD, jUnit5
  - Akka Stream, Project Reactor
