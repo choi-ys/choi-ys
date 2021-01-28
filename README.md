@@ -37,7 +37,7 @@
  - AWS EC2, ECR, RDS, Lamda
  - Pinpoint, Spring Boot Actuator
  - TDD, BDD, DDD, jUnit5
- - Akka Stream, Project Reactor
+ - Akka Stream, Project Reactor, RPC
  - Vue.js
  - REST API, Crawling, Parallel Process, Data analysis, OAuth, Reactive Programming, Data visualization
 
