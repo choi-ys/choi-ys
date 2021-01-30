@@ -39,7 +39,9 @@
  - TDD, BDD, DDD, jUnit5
  - Akka Stream, Project Reactor, RPC
  - Vue.js
- - REST API, Crawling, Parallel Process, Data analysis, OAuth, Reactive Programming, Data visualization
+ - REST API, OAuth2
+ - Parallel Process, Reactive Programming
+ - BigData, Data Analysis, Data Visualization, Data Crawling
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
