@@ -31,7 +31,7 @@
  - Java, Kotlin, Python
  - Spring REST Docs, Spring HATEOAS, Spring Security, Spring Cloud, Spring WebFlux, Armeria
  - JPA, Choas Monkey
- - Airflow, Spark, Hadoop, Thrift
+ - Airflow, Spark, Hadoop, Thrift, Arrow, dask
  - Mongo, Elastic Search, Redis, Kafka, EhCache
  - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
  - AWS EC2, ECR, RDS, Lamda
