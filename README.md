@@ -29,9 +29,9 @@
  
 ### Interested IN
  - Java, Kotlin, Python
- - Spring REST Docs, Spring HATEOAS, Spring Security, Spring Cloud, Spring WebFlux, Armeria
+ - Spring REST Docs, Spring HATEOAS, Spring Security, Spring Cloud, Spring WebFlux, Armeria, Pandas, Dask
  - JPA, Choas Monkey
- - Airflow, Spark, Hadoop, Thrift, Arrow, dask
+ - Airflow, Spark, Hadoop, Thrift, Arrow
  - Mongo, Elastic Search, Redis, Kafka, EhCache
  - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
  - AWS EC2, ECR, RDS, Lamda
