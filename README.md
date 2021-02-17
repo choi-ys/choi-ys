@@ -34,7 +34,7 @@
  - Airflow, Spark, Hadoop, Thrift, Arrow
  - Mongo, Elastic Search, Redis, Kafka, EhCache
  - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
- - AWS EC2, ECR, RDS, Lamda
+ - AWS EC2, ECR, RDS, Lambda
  - Pinpoint, Spring Boot Actuator
  - TDD, BDD, DDD, jUnit5
  - Akka Stream, Project Reactor, RPC
