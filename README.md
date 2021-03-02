@@ -22,7 +22,7 @@
 
 ### Skills
  - Language : JAVA, Kotlin, JavaScript, Python
- - Framework : Spring Framework, JPA, MyBatis, Vue.js
+ - Framework : Spring Framework, JPA, MyBatis, Vue.js, Django
  - Database : Oracle, MySQL, Mongo, PostgreSQL
  - Server : Kafka, Redis, Elastic Search
  - DevOps : AWS EC2, ECR, RDS, Docker
