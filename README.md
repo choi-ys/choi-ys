@@ -32,11 +32,10 @@
  - Airflow, Spark, Hadoop, Thrift, Arrow
  - TDD, BDD, DDD, jUnit5
  - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
- - AWS EC2, ECR, RDS, Lambda
+ - AWS EC2, ECR, RDS, Lambda, CloudFront
  - Pinpoint, Spring Boot Actuator, Choas Monkey
  - Akka Stream, Project Reactor, RPC, 
  - Parallel Process, Reactive Programming
- - Vue.js
  - REST API, OAuth2
  - BigData, Data Analysis, Data Visualization, Data Crawling, Data Caching
 
