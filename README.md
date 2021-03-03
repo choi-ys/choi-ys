@@ -34,7 +34,7 @@
  - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
  - Lambda, CloudFront
  - Pinpoint, Spring Boot Actuator, Choas Monkey
- - Akka Stream, Project Reactor, RPC, 
+ - Akka Stream, Project Reactor, RPC
  - Parallel Process, Reactive Programming
  - REST API, OAuth2
  - BigData, Data Analysis, Data Visualization, Data Crawling, Data Caching
