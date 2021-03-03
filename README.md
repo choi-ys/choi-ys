@@ -21,27 +21,24 @@
 
 
 ### Skills
- - Language : JAVA, Kotlin, JavaScript, Python
+ - Language : Java, Kotlin, JavaScript, Python
  - Framework : Spring Framework, JPA, MyBatis, Vue.js, Django
  - Database : Oracle, MySQL, Mongo, PostgreSQL
- - Server : Kafka, Redis, Elastic Search
+ - Server : Kafka, Redis, ElasticSearch
  - DevOps : AWS EC2, ECR, RDS, Docker
  
 ### Interested IN
- - Java, Kotlin, Python
  - Spring REST Docs, Spring HATEOAS, Spring Security, Spring Cloud, Spring WebFlux, Armeria, Pandas, Dask, GraphQL
- - JPA, Choas Monkey
  - Airflow, Spark, Hadoop, Thrift, Arrow
- - Mongo, Elastic Search, Redis, Kafka, EhCache
+ - TDD, BDD, DDD, jUnit5
  - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
  - AWS EC2, ECR, RDS, Lambda
- - Pinpoint, Spring Boot Actuator
- - TDD, BDD, DDD, jUnit5
- - Akka Stream, Project Reactor, RPC
+ - Pinpoint, Spring Boot Actuator, Choas Monkey
+ - Akka Stream, Project Reactor, RPC, 
+ - Parallel Process, Reactive Programming
  - Vue.js
  - REST API, OAuth2
- - Parallel Process, Reactive Programming
- - BigData, Data Analysis, Data Visualization, Data Crawling
+ - BigData, Data Analysis, Data Visualization, Data Crawling, Data Caching
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
