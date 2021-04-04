@@ -1,7 +1,7 @@
 <!-- Github Profile Readme로 프로필 꾸미기 : https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
 
 <!-- github theme -->
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=e0f0e3&height=150&section=header&text=Retuor&fontSize=45)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=e0f0e3&height=150&section=header&text=retuoR&fontSize=45)
 
 
 <!-- hits count : https://hits.seeyoufarm.com/ -->
