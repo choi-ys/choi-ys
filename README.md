@@ -28,7 +28,7 @@
  - Test : jUnit5, jest
  - Server : Kafka, Redis, ElasticSearch
  - DevOps : EC2, ECR, RDS, CloudFront, Docker
- - deploy : jenkins
+ - Deploy : jenkins
  
 ### Interested IN
  - Spring REST Docs, Spring HATEOAS, Spring Security, Spring Cloud, Spring WebFlux, Armeria, Pandas, Dask, GraphQL
