@@ -21,11 +21,13 @@
 
 
 ### Skills
- - Language : Java, JavaScript, Python
- - Framework : Spring Framework, JPA, MyBatis, Vue.js, Django
- - Database : Oracle, MySQL, Mongo, PostgreSQL
+ - Language : Java, JavaScript
+ - Framework : Spring Framework, JPA, MyBatis, Vue.js, Quasar
+ - Library : Spring REST Docs, Spring HATEOAS, Spring Sequrity, Spring WebFlux, Spring Cloud OpenFeign, QueryDSL
+ - Database : MySQL, PostgreSQL, Mongo
  - Server : Kafka, Redis, ElasticSearch
- - DevOps : AWS EC2, ECR, RDS, Docker
+ - DevOps : EC2, ECR, RDS, CloudFront, Docker
+ - deploy : jenkins
  
 ### Interested IN
  - Spring REST Docs, Spring HATEOAS, Spring Security, Spring Cloud, Spring WebFlux, Armeria, Pandas, Dask, GraphQL
