@@ -25,6 +25,7 @@
  - Framework : Spring Framework, JPA, MyBatis, Vue.js, Quasar
  - Library : Spring REST Docs, Spring HATEOAS, Spring Sequrity, Spring WebFlux, Spring Cloud OpenFeign, QueryDSL
  - Database : MySQL, PostgreSQL, Mongo
+ - Test : jUnit5, jest
  - Server : Kafka, Redis, ElasticSearch
  - DevOps : EC2, ECR, RDS, CloudFront, Docker
  - deploy : jenkins
