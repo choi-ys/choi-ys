@@ -33,7 +33,7 @@
 ### Interested IN
  - Spring Security, Spring Cloud, Armeria, Pandas, Dask, GraphQL
  - Airflow, Spark, Hadoop, Thrift, Arrow
- - TDD, BDD, DDD, jeset
+ - TDD, BDD, DDD, jest
  - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
  - Lambda, CloudFront
  - Pinpoint, Spring Boot Actuator, Choas Monkey
