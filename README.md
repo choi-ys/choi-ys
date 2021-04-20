@@ -25,15 +25,15 @@
  - Framework : Spring Framework, JPA, MyBatis, Vue.js, Quasar
  - Library : Spring { REST Docs, HATEOAS, WebFlux }, QueryDSL
  - Database : MySQL, PostgreSQL, Mongo
- - Test : jUnit5, jest
+ - Test : jUnit5
  - Server : Kafka, Redis, ElasticSearch
  - DevOps : EC2, ECR, RDS, CloudFront, Docker
- - Deploy : jenkins
+ - Deploy : Jenkins
  
 ### Interested IN
- - Spring REST Docs, Spring HATEOAS, Spring Security, Spring Cloud, Spring WebFlux, Armeria, Pandas, Dask, GraphQL
+ - Spring Security, Spring Cloud, Armeria, Pandas, Dask, GraphQL
  - Airflow, Spark, Hadoop, Thrift, Arrow
- - TDD, BDD, DDD, jUnit5
+ - TDD, BDD, DDD, jeset
  - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
  - Lambda, CloudFront
  - Pinpoint, Spring Boot Actuator, Choas Monkey
