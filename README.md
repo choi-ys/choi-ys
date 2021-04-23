@@ -29,19 +29,6 @@
  - Server : Kafka, Redis, ElasticSearch
  - DevOps : EC2, ECR, RDS, CloudFront, Docker
  - Deploy : Jenkins
- 
-### Interested IN
- - Spring Security, Spring Cloud, Armeria, Pandas, Dask, GraphQL
- - Airflow, Spark, Hadoop, Thrift, Arrow
- - TDD, BDD, DDD, jest
- - CI/CD, Docker, Travis CI, Jenkins, K8s, Azure
- - Lambda, CloudFront
- - Pinpoint, Spring Boot Actuator, Choas Monkey
- - Akka Stream, Project Reactor, RPC
- - Parallel Process, Reactive Programming
- - REST API, OAuth2
- - BigData, Data Analysis, Data Visualization, Data Crawling, Data Caching
-
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
 
