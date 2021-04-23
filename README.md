@@ -30,5 +30,9 @@
  - DevOps : EC2, ECR, RDS, CloudFront, Docker
  - Deploy : Jenkins, gitlab-runner
 
+### resume
+ - https://www.linkedin.com/in/choi-ys/
+
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
 
