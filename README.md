@@ -28,7 +28,7 @@
  - Test : jUnit5
  - Server : Kafka, Redis, ElasticSearch
  - DevOps : EC2, ECR, RDS, CloudFront, Docker
- - Deploy : Jenkins
+ - Deploy : Jenkins, gitlab-runner
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
 
