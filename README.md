@@ -22,7 +22,7 @@
 
 ### Skills
  - Language : Java, Kotlin, JavaScript
- - Framework : Spring Framework, JPA, MyBatis, Vue.js, Quasar
+ - Framework : Spring Framework, JPA, Vue.js, Quasar
  - Library : Spring { REST Docs, HATEOAS, WebFlux, Batch, Security, Cloud }, QueryDSL
  - Database : MySQL, PostgreSQL, Mongo
  - Test : jUnit5
