@@ -30,7 +30,7 @@
  - DevOps : EC2, ECR, RDS, CloudFront, Docker
  - Deploy : Jenkins, gitlab-runner
  - Data : TensorFlow, OpenCV
-
+ - ETC : Pinpoint, nGrinder
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
 
