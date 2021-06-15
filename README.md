@@ -15,7 +15,8 @@
 <!-- Committed Top Lang -->
 <div align=center>
   
-   TEST
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-ys&layout=compact)](https://github.com/choi-ys?tab=repositories)
+
 </div>
 
 
