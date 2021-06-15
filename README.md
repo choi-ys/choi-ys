@@ -14,7 +14,12 @@
 
 <!-- Committed Top Lang -->
 <div align=center>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-ys&layout=compact)]
+  <div align=left>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-ys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div align=right>
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=choi-ys)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 </div>
 
 
