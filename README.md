@@ -19,11 +19,11 @@
 
 ### Skills
  - Language : Java, Kotlin, JavaScript
- - Framework : Spring Framework, JPA, Vue.js
+ - Framework : Spring Framework, JPA, MyBatis, Vue.js
  - Library : Spring { REST Docs, HATEOAS, WebFlux, Batch, Security, Cloud }, QueryDSL
  - Database : MySQL, PostgreSQL, Mongo
  - Test : jUnit5
- - Server : Kafka, Redis, ElasticSearch
+ - Repository : Kafka, Redis, Elastic Search
  - DevOps : EC2, ECR, RDS, CloudFront, Docker
  - Deploy : Jenkins
  - ETC : Pinpoint, nGrinder
