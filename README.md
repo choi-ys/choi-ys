@@ -25,7 +25,7 @@
  - Test : jUnit5
  - Repository : Kafka, Redis, Elastic Search
  - DevOps : EC2, ECR, RDS, CloudFront, Docker
- - Deploy : Jenkins
+ - CI/CD : Jenkins
  - ETC : Pinpoint, nGrinder, burrow
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
