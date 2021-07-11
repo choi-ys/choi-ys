@@ -24,7 +24,7 @@
  - Database : MySQL, PostgreSQL, Mongo
  - Test : jUnit5
  - Repository : Kafka, Redis, Elastic Search
- - DevOps : EC2, ECR, RDS, CloudFront, Docker
+ - DevOps : EC2, ECR, ECS, RDS, CloudFront, Docker, CodeDeploy
  - CI/CD : Jenkins
  - ETC : Pinpoint, nGrinder, burrow
 
