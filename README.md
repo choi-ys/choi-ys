@@ -21,7 +21,7 @@
  - Language : Java, Kotlin, JavaScript
  - Framework : Spring Framework, JPA, MyBatis, Vue.js
  - Library : Spring { REST Docs, HATEOAS, WebFlux, Batch, Security, Cloud Boot Actuator}, QueryDSL
- - Database : MySQL, PostgreSQL, Mongo
+ - Database : MySQL, Mongo
  - Test : jUnit5
  - Repository : Kafka, Redis, Elastic Search
  - DevOps : EC2, ECR, ECS, RDS, CloudFront, Docker, CodeDeploy
