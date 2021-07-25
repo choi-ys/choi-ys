@@ -22,7 +22,7 @@
  - Framework : Spring Framework, JPA, MyBatis, Vue.js
  - Library : Spring { REST Docs, HATEOAS, WebFlux, Batch, Security, Cloud Boot Actuator}, QueryDSL
  - Database : MySQL, Mongo
- - Test : jUnit5
+ - Test : jUnit5, Mockito
  - Repository : Kafka, Redis, Elastic Search
  - DevOps : EC2, ECR, ECS, RDS, CloudFront, Docker, CodeDeploy
  - CI/CD : Jenkins
