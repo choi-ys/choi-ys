@@ -24,8 +24,7 @@
  - Database : MySQL, Mongo
  - Test : jUnit5, Mockito
  - Repository : Kafka, Redis, Elastic Search
- - DevOps : EC2, ECR, ECS, RDS, CloudFront, Docker, CodeDeploy
- - CI/CD : Jenkins
+ - DevOps : EC2, ECR, ECS, RDS, CloudFront, Docker, Jenkins, CodeDeploy
  - ETC : Pinpoint, nGrinder, burrow
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
