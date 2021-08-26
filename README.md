@@ -20,7 +20,7 @@
 ### Skills
  - Language : Java, Kotlin, JavaScript
  - Framework : Spring Framework, JPA, MyBatis, Vue.js
- - Library : Spring { REST Docs, HATEOAS, WebFlux, Batch, Security, Cloud Boot Actuator}, QueryDSL
+ - Library : Spring { REST Docs, HATEOAS, WebFlux, Batch, Security, Cloud, Boot Actuator}, QueryDSL
  - Database : MySQL, Mongo
  - Test : jUnit5, Mockito
  - Repository : Kafka, Redis, Elastic Search
