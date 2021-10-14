@@ -19,12 +19,14 @@
 
 ### Skills
  - Language : Java, Kotlin, JavaScript
- - Framework : Spring Framework, JPA, MyBatis, Vue.js
- - Library : Spring { REST Docs, HATEOAS, WebFlux, Batch, Security, Cloud, Boot Actuator}, QueryDSL
+ - Framework : Spring Framework(Spring MVC, Spring WebFlux), JPA, MyBatis, QueryDSL, Vue.js
+ - Library : 
+   - Spring [HATEOAS, REST Docs, Batch, Security]
+   - Spring Cloud [Config, Gateway, OpenFeign, Eureka, Sleuth]
  - Database : MySQL, Mongo
  - Test : jUnit5, Mockito
  - Repository : Kafka, Redis, Elastic Search
- - DevOps : EC2, ECR, ECS, RDS, CloudFront, Docker, Jenkins, CodeDeploy
+ - DevOps : EC2, ECR, ECS, RDS, CodeDeploy, CloudFront, Docker, Jenkins
  - ETC : Pinpoint, nGrinder, burrow
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
