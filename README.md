@@ -1,8 +1,10 @@
 <!-- Github Profile Readme로 프로필 꾸미기 : https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
 
 <!-- github theme -->
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=e0f0e3&height=150&section=header&text=beasy&fontSize=45)
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Choi-YongSeok&fontSize=55&animation=twinkling)
+  <!-- 
+    ![header](https://capsule-render.vercel.app/api?type=slice&color=e0f0e3&height=150&section=header&text=beasy&fontSize=45)
+  -->
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=e0f0e3&height=150&section=header&text=Choi-YongSeok&fontSize=55&animation=twinkling)
 
 
 <!-- hits count : https://hits.seeyoufarm.com/ -->
@@ -69,5 +71,7 @@ Vue                      5 repos             ██░░░░░░░░░�
  Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
 
+<!-- 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=e0f0e3)
+-->
 
