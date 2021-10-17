@@ -2,6 +2,7 @@
 
 <!-- github theme -->
   ![header](https://capsule-render.vercel.app/api?type=slice&color=e0f0e3&height=150&section=header&text=beasy&fontSize=45)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Choi-YongSeok&fontSize=55&animation=twinkling)
 
 
 <!-- hits count : https://hits.seeyoufarm.com/ -->
