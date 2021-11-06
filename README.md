@@ -22,15 +22,15 @@
 
 ### Skills
  - Language : Java, Kotlin, JavaScript
- - Framework : Spring Framework(Spring MVC, Spring WebFlux), JPA, MyBatis, QueryDSL, Vue.js
+ - Framework : Spring Framework(Spring MVC, Spring WebFlux), JPA, QueryDSL, Vue.js
  - Library : 
    - Spring [HATEOAS, REST Docs, Batch, Security]
    - Spring Cloud [Config, Gateway, OpenFeign, Eureka, Sleuth]
  - Database : MySQL, Mongo
  - Test : jUnit5, Mockito
  - Repository : Kafka, Redis, Elastic Search
- - DevOps : EC2, ECR, ECS, RDS, CodeDeploy, CloudFront, Docker, Jenkins
- - ETC : Pinpoint, nGrinder, burrow
+ - DevOps : EC2, ECR, RDS, CloudFront, Docker, Jenkins
+ - ETC : Kubernetes, nGrinder, burrow
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231614%20lines%20of%20code-blue)
