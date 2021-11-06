@@ -21,8 +21,8 @@
 
 
 ### Skills
- - Language : Java, Kotlin, JavaScript
- - Framework : Spring Framework(Spring MVC, Spring WebFlux), JPA, QueryDSL, Vue.js
+ - Language : Java, Kotlin
+ - Framework : Spring Framework(Spring MVC, Spring WebFlux), JPA, QueryDSL
  - Library : 
    - Spring [HATEOAS, REST Docs, Batch, Security]
    - Spring Cloud [Config, Gateway, OpenFeign, Eureka, Sleuth]
