@@ -29,7 +29,7 @@
  - Database : MySQL, Mongo
  - Test : jUnit5, Mockito
  - Repository : Kafka, Redis, Elastic Search
- - DevOps : EC2, ECR, RDS, CloudFront, Docker, Jenkins
+ - DevOps : AWS, Docker, Jenkins
  - ETC : Kubernetes, nGrinder, burrow
 
 ---
