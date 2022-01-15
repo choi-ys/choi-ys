@@ -24,13 +24,13 @@
  - Language : Java, Kotlin
  - Framework : Spring Framework(Spring MVC, Spring WebFlux), JPA, QueryDSL
  - Library : 
-   - Spring [HATEOAS, REST Docs, Batch, Security]
+   - Spring [REST Docs, Batch, Security]
    - Spring Cloud [Config, Gateway, OpenFeign, Eureka, Sleuth]
  - Database : MySQL, Mongo
  - Test : jUnit5, Mockito
  - Repository : Kafka, Redis, Elastic Search
  - DevOps : AWS, Docker, Jenkins
- - ETC : Kubernetes, nGrinder, burrow
+ - ETC : Kubernetes, nGrinder, burrow, Prometheus + Grapana
 
 ---
 
