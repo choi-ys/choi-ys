@@ -22,15 +22,12 @@
 
 ### Skills
  - Language : Java, Kotlin
- - Framework : Spring Framework(Spring MVC, Spring WebFlux), JPA, QueryDSL
- - Library : 
-   - Spring [REST Docs, Batch, Security]
-   - Spring Cloud [Config, Gateway, OpenFeign, Eureka, Sleuth]
- - Database : MySQL, Mongo
+ - Framework : Spring Framework, JPA, QueryDSL
+ - Library : Spring [Security, Batch, REST Docs, Cloud]
+ - Database : MySQL
  - Test : jUnit5, Mockito
- - Repository : Kafka, Redis, Elastic Search
- - DevOps : AWS, Docker, Jenkins
- - ETC : Kubernetes, nGrinder, burrow, Prometheus + Grapana
+ - Repository : Kafka, Redis
+ - DevOps : AWS (ECS+fargate, ECR, S3, Code Build & Deploy), Docker
 
 ---
 
