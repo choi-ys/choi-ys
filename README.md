@@ -24,7 +24,7 @@
  - Language : Java, Kotlin
  - Framework : Spring Framework, JPA, QueryDSL
  - Database : MySQL
- - Test : jUnit5, Mockito
+ - Test : jUnit5, Mockito, Kotest
  - Repository : Kafka, Redis
 
 ---
