@@ -40,13 +40,13 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -63,7 +63,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2023 01:22:19 UTC
+ Last Updated on 24/01/2023 01:26:14 UTC
 <!--END_SECTION:waka-->
 
 <!-- 
