@@ -30,7 +30,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C407%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C407%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-344%20Thousand%20lines%20of%20code-blue)
 
@@ -40,13 +40,14 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     7 mins              █████████████████████████   100.00 % 
+Markdown                 7 mins              █████████████░░░░░░░░░░░░   51.71 % 
+Java                     7 mins              ████████████░░░░░░░░░░░░░   48.29 % 
 
 🔥 Editors: 
-IntelliJ                 7 mins              █████████████████████████   100.00 % 
+IntelliJ                 14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -63,7 +64,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2023 01:25:21 UTC
+ Last Updated on 10/02/2023 01:36:16 UTC
 <!--END_SECTION:waka-->
 
 <!-- 
