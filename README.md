@@ -53,14 +53,13 @@ Sunday                   1845 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 0 secs              ████████████████░░░░░░░░░   63.20 % 
-Java                     0 secs              █████████░░░░░░░░░░░░░░░░   36.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -76,7 +75,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2023 01:43:41 UTC
+ Last Updated on 30/03/2023 01:39:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- 
