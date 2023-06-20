@@ -30,7 +30,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C416%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C418%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.5%20million%20lines%20of%20code-blue)
 
@@ -53,13 +53,15 @@ Sunday                   1844 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   24 mins             █████████████████████████   100.00 % 
+Kotlin                   1 hr 32 mins        ████████████████████████░   94.82 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-IntelliJ                 24 mins             █████████████████████████   100.00 % 
+IntelliJ                 1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -75,7 +77,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2023 01:38:03 UTC
+ Last Updated on 20/06/2023 01:35:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- 
