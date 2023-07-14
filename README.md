@@ -30,7 +30,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C418%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C420%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.4%20million%20lines%20of%20code-blue)
 
@@ -53,13 +53,17 @@ Sunday                   1829 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 24 mins        ███████████████████░░░░░░   77.93 % 
+Java                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 24 mins        ███████████████████░░░░░░   77.93 % 
+IntelliJ                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -75,7 +79,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2023 01:37:56 UTC
+ Last Updated on 14/07/2023 01:36:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- 
