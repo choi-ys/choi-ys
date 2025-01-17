@@ -22,11 +22,11 @@
 ### Skills
  - Language : Java, Kotlin
  - Framework
-   - Web : Spring Framework, JPA, QueryDSL
+   - Web : Spring MVC, Spring Webflux
    - Data Access : JPA, QueryDSL
  - Database : MySQL, Mongo
  - Repository : Redis, Kafka
- - Test : jUnit5, Mockito, Kotest, Artiliery, Wiremock, Testcontainers
+ - Test : jUnit5, Mockito, Kotest, k6, Wiremock, Testcontainers
 
 ---
 
